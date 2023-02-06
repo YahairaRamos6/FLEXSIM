@@ -1,0 +1,20 @@
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\bin\Debug\Distancia3P.exe.config
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\bin\Debug\Distancia3P.exe
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\bin\Debug\Distancia3P.pdb
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.csprojAssemblyReference.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.Form1.resources
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.Properties.Resources.resources
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.csproj.GenerateResource.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.csproj.CoreCompileInputs.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.exe
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3P\obj\Debug\Distancia3P.pdb
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\bin\Debug\Distancia3P.exe.config
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\bin\Debug\Distancia3P.exe
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\bin\Debug\Distancia3P.pdb
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.Form1.resources
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.Properties.Resources.resources
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.exe
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3P\obj\Debug\Distancia3P.pdb

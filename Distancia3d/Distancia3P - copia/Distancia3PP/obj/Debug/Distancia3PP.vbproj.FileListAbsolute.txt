@@ -1,0 +1,12 @@
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\bin\Debug\Distancia3PP.exe.config
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\bin\Debug\Distancia3PP.exe
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\bin\Debug\Distancia3PP.pdb
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\bin\Debug\Distancia3PP.xml
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.vbprojAssemblyReference.cache
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.Form1.resources
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.Resources.resources
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.vbproj.GenerateResource.cache
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.vbproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.exe
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.xml
+C:\Users\52866\Desktop\Distancia3P - copia\Distancia3PP\obj\Debug\Distancia3PP.pdb
